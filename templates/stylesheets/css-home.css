@@ -16,3 +16,9 @@ bottom:auto;
 -ms-transform:translate(0, -50%);
 transform:translate(0, -50%);
 }
+
+@media only screen and (min-width: 1060px){
+  .font-div{
+    padding:56.2px 0px!important;
+  }
+}
